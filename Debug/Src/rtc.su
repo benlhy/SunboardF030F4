@@ -1,0 +1,2 @@
+rtc.c:17:5:dayofweek	24	static
+rtc.c:26:6:Set_Current_Time	40	static
